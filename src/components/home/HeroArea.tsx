@@ -8,7 +8,7 @@ export default function HeroArea() {
             <div className="col-lg-12">
 
               <div className="hero-content wow fadeInUp text-center delay-0-2s">
-                <h4>Syed Munaf Ahmed</h4>
+                <h2>Syed Munaf Ahmed</h2>
               </div>
 
             </div>
