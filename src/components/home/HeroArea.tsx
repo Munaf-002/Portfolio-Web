@@ -18,7 +18,7 @@ export default function HeroArea() {
 
               <div className="hero-content wow fadeInUp delay-0-2s">
                 <div className="clienti-reviews">
-                  <ul className="clienti-profile">
+                  {/* <ul className="clienti-profile">
                     <li>
                       <img className="img-fluid" src="assets/images/avatar/01.jpg" alt="client" />
                     </li>
@@ -28,9 +28,10 @@ export default function HeroArea() {
                     <li>
                       <img className="img-fluid" src="assets/images/avatar/03.jpg" alt="client" />
                     </li>
-                  </ul>
-                  <div className="reviews">100+ reviews <span>(4.96 of 5)</span>
-                    <p>Five-star reviews from my esteemed clients.</p>
+                  </ul> */}
+                  <br />
+                  <div className="reviews">ERP & Billing Executive • Web Developer  
+                    <p>Hi, I’m Munaf, Combining ERP-driven business analysis with responsive web development. Crafting solutions that bridge data accuracy, workflow efficiency, and user-centric design.</p>
                   </div>
                 </div>
               </div>
@@ -42,9 +43,9 @@ export default function HeroArea() {
               </div>
 
             </div>
-            <div className="col-lg-3 pt-30">
+            <div className="col-lg-3 pt-80">
               <div className="hero-content wow fadeInUp delay-0-4s">
-                <p>Hi, I’m Munaf, a passionate UX Designer dedicated to creating user-friendly digital experiences.</p>
+                <br /><br /><br />
                 <a className="theme-btn" href="">Get In touch</a>
               </div>
 
