@@ -34,7 +34,11 @@ export default function AboutArea() {
             </div>
             <div className="col-lg-9 col-sm-9">
               <div className="about-content-part wow fadeInUp delay-0-2s">
-                <p>I am Syed Munaf Ahmed, a seasoned UX designer with over 1 years of experience in crafting intuitive and engaging digital experiences. My journey began with a background in graphic design, where I discovered my passion for understanding user behavior and translating it into seamless interactions.</p>
+                <p>I am Syed Munaf Ahmed, ’m a multi-skilled professional currently working as an ERP & Billing Executive while also growing as a web developer. With experience in ERP systems, Excel-based reporting, and structured documentation, I help businesses manage data, automate workflows, and maintain financial accuracy.
+                <br /><br />
+                On the development side, I specialize in building modern, responsive websites using WordPress and React.js. I combine technical functionality with intuitive user interfaces, ensuring smooth digital experiences for both businesses and users.
+                <br /><br />
+                Currently, I’m pursuing a Bachelor’s in Computer Science (BSCS), aiming to specialize in ERP consulting, data analytics, and enterprise-level web solutions.</p>
               </div>
               <div className="hero-counter-area d-flex justify-content-between wow fadeInUp delay-0-4s">
                 {counter_data.map((item, i) => (
